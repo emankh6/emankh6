@@ -94,7 +94,6 @@ Designed and built a responsive web application featuring full-stack integration
 - **IT Essentials** | Cisco Networking Academy (2024)
 
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0F172A&height=100&section=footer" />
 </p>
@@ -103,4 +102,4 @@ Designed and built a responsive web application featuring full-stack integration
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0F172A&height=100&section=footer" />
 </p>
 
-<p align="center"><i>Seeking a Software Developer role building reliable, user-focused applications[cite: 1]</i></p>
+<p align="center"><i>Seeking a Software Developer role building reliable, user-focused applications</i></p>
