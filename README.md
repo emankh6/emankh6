@@ -49,7 +49,7 @@ Software Developer with hands-on experience in full-stack web development, mobil
   <tr>
     <td width="25%"><b>Tools & Testing</b></td>
     <td>
-      <code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>Figma</code> <code>Software QA & Manual Testing</code>
+      <code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>Software QA & Manual Testing</code>
     </td>
   </tr>
 </table>
