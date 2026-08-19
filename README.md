@@ -31,7 +31,7 @@ Software Developer with hands-on experience in full-stack web development, mobil
   <tr>
     <td width="25%"><b>Frameworks & Mobile</b></td>
     <td>
-      <code>Flutter</code> <code>Dart</code> <code>Streamlit</code> <code>Flask</code>
+      <code>Flutter</code> <code>Dart</code> 
     </td>
   </tr>
   <tr>
@@ -115,4 +115,4 @@ Software Developer with hands-on experience in full-stack web development, mobil
 ## Languages
 
 * **Arabic:** Native
-* **English:** Professional Working Proficiency
+* **English:** Intermediate
